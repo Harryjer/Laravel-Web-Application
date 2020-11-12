@@ -1,0 +1,8 @@
+Instructions.
+1. Please go to the github link.
+2. There are two branches in this project. 
+3. Go to the branches folder and select the 'master' branch.
+4. Then you can download my laravel project.
+5. After downloading it, you need to download the node modules to this project.
+6. Then migrate the tables.
+Thank You. 
